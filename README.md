@@ -9,7 +9,7 @@
 <a href="https://linkedin.com/in/satyam-kumar-choudhary-5a3164191" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="satyam-kumar-choudhary-5a3164191" height="30" width="40" /></a>
 <a href="https://fb.com/profile.php?id=100010531712364" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="profile.php?id=100010531712364" height="30" width="40" /></a>
 <a href="https://instagram.com/bip_satyam" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="bip_satyam" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/ucclfw9ef5p51qjdpemb-lta" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="channel/ucclfw9ef5p51qjdpemb-lta" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCclFW9EF5p51qJdPEMB-LtA" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="channel/ucclfw9ef5p51qjdpemb-lta" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/Eu5Yj5cA" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="https://discord.gg/Eu5Yj5cA" height="30" width="40" /></a>
 </p>
 
