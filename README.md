@@ -21,3 +21,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=satya0150&show_icons=true&locale=en" alt="satya0150" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=satya0150&" alt="satya0150" /></p>
+
+# Projects
+[<img src="https://github-readme-stats.vercel.app/api/pin/?username=satya0150&repo=calculator" width="45%" height="100%">](https://github.com/satya0150/calculator)
+[<img src="https://github-readme-stats.vercel.app/api/pin/?username=satya0150&repo=Dictionary" width="45%" height="100%"/>](https://github.com/satya0150/Dictionary)
+[<img src="https://github-readme-stats.vercel.app/api/pin/?username=satya0150&repo=Dicestimulator" width="45%" height="100%"/>](https://github.com/satya0150/Dicestimulator)
+[<img src="https://github-readme-stats.vercel.app/api/pin/?username=satya0150&repo=convertor" width="45%" height="100%"/>](https://github.com/satya0150/convertor)
