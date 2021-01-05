@@ -1,10 +1,6 @@
-<h1 align="center">Hi 👋, I'm Satyam Choudhary</h1>
+<h1 align="center">Hi 👋, I'm Satyam kr Choudhary</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=satya0150&label=Profile%20views&color=0e75b6&style=flat" alt="satya0150" /> </p>
-
 <p align="left"> <a href="https://twitter.com/bip_satyam" target="blank"><img src="https://img.shields.io/twitter/follow/bip_satyam?logo=twitter&style=for-the-badge" alt="bip_satyam" /></a> </p>
-
- 
- 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/bip_satyam" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="bip_satyam" height="30" width="40" /></a>
